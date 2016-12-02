@@ -1,0 +1,16 @@
+{
+  "name": "NodeJsHelloWorld3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.project.distillery.online/root/ciw7it2wt00010jtdsa4abaoh"
+  },
+  "keywords": [],
+  "author": "yuzhenpin <yuzhenpin@gmail.com>",
+  "license": "ISC"
+}
